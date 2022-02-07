@@ -11,7 +11,7 @@
 
 ## Description:
 This was the 2nd project developed for Data Structures and Algorithms subject @University of Coimbra, Informatics Engineering <br>
-Consists in develop a program that make a study about time complexity (O(n)) of some sorting algorithms like Shell Sort, Quick Sort and Radix Sort.
+Consists in develop a group of programs that make a study about time complexity (O(n)) of some sorting algorithms like Shell Sort, Quick Sort and Radix Sort.
 
 #### Main Languages:
 ![](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=FFFFFF)
