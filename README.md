@@ -21,8 +21,6 @@ Consists in develop a group of programs that make a study about time complexity 
     - [Version ??](https://www.oracle.com/java/technologies/downloads/) 
 
 ## To run this project:
-[WARNING] Python 3.9  must be installed <br>
-## To run this project:
 [WARNING] Java must be installed<br>
 You have two ways to run this project:
 1. Using Terminal:
