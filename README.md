@@ -42,4 +42,4 @@ You have two ways to run this project:
    - For more information about this exercises consult the Statement (if you want to use them uncomment where says [TO RUN MANUALLY])
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
